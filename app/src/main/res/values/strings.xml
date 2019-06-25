@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="username">Username</string>
+    <string name="pwd">Password</string>
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">YOUR_APP_ID</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbYOUR_APP_ID</string>
+    <!-- Twitter consumer key and secret -->
+    <string name="twitter_consumer_key" translatable="false">YOUR_CONSUMER_KEY</string>
+    <string name="twitter_consumer_secret" translatable="false">YOUR_CONSUMER_SECRET</string>
+    <string name="title_activity_main">Pets</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">LITTLE PETS AND AQUARIUM PONKUNNAM</string>
+    <string name="nav_header_subtitle">https://little-pets-and-aquarium-ponkunnam.business.site</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="number">+91 9495213858</string>
+    <string name="menu_home">Stuff</string>
+    <string name="menu_gallery">Aquarium</string>
+    <string name="menu_slideshow">Pet</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Feedback</string>
+    <string name="menu_send">About</string>
+    <string name="YOUR_ADMOB_APP_ID">ca-app-pub-7699153984954796~8295536303</string>
+    <string name="admob">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
